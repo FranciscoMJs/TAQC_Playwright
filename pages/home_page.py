@@ -1,5 +1,4 @@
 from pages.base_page import BasePage
-from utils.config import PRODUCT_NAME
 
 class HomePage(BasePage):
     def __init__(self, page):
